@@ -1,4 +1,3 @@
-
 /*
 	Question 1 :
 		0-100 arasýndaki rastgele sayýlardan oluþturulmuþ bir 4x4 matris üzerinde kaç tane sayýnýn 50’den küçük olduðunu bulan program kodunu yazýnýz.		
@@ -59,4 +58,3 @@ int main() {
 	return 0;
 	
 }
-

@@ -11,7 +11,7 @@ int main() {
 	
 	char str1[100], str2[100];
 	
-	printf("Plase user string a enter: "); 		scanf("%s", str1);
+	printf("Plase user string a enter:"); 		scanf("%s", str1);
 	
 	int i, j;
 	
